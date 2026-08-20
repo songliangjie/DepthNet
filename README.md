@@ -1,3 +1,4 @@
+**DepthNet** is a geometry-guided infrared and visible image fusion network that explicitly incorporates depth priors derived from monocular depth estimation into the fusion process.
 
 Downstream Task: Depth Estimation
 <img width="8340" height="8744" alt="7" src="https://github.com/user-attachments/assets/909d761e-0792-4b2b-bccc-ba001821acd7" />
